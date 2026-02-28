@@ -5,7 +5,7 @@ import { People } from '@/types/people.interface';
 const team: People[] = [
   {
     name: 'Дьяконов Александр',
-    role: 'CEO и devops',
+    role: 'devops',
     contact: 'https://t.me/keine_salz',
     image: '/people/sasha.png',
   },
@@ -35,7 +35,7 @@ const team: People[] = [
   },
   {
     name: 'Вика Кулешова',
-    role: 'UX/UI дизайнер',
+    role: 'дизайнер',
     contact: 'https://t.me/vktorriaa',
     image: '/people/vika.png',
   },
